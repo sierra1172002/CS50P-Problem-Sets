@@ -1,0 +1,13 @@
+pip installable libraries:
+
+youtube-search
+requests
+
+standard python libraries:
+
+sys
+json
+re
+os
+
+
